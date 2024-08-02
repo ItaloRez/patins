@@ -223,6 +223,6 @@ section.hero {
   }
 
   100% {
-    transform: translateX(0)
+    transform: translateX(0);
   }
 }
